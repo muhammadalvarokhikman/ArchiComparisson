@@ -41,7 +41,7 @@ Mahatir Ahmed Tusher, Saket Choudary Kongara, Vangapalli Sivamani. Heart Disease
 - Grafik perbandingan akurasi digunakan untuk analisis performa.
 
 ## Results & Conclusion
-Hasil perbandingan model dapat disimpulkan sebagai berikut:
+Hasil perbandingan model dapat disimpulkan sebagai berikut:<br>
 <img height="400" src="https://github.com/muhammadalvarokhikman/ArchiComparisson/blob/ce55835512c23e1e414463ddddca2a4f398dead9/result/Figure_4.png"/><br>
 - **CNN + ResNet** menunjukkan performa terbaik dalam generalisasi dengan akurasi validasi yang stabil.
 - **CNN + ImageNet** memiliki performa yang cukup baik tetapi lebih fluktuatif dibandingkan ResNet.
