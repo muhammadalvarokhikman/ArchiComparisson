@@ -42,7 +42,7 @@ Mahatir Ahmed Tusher, Saket Choudary Kongara, Vangapalli Sivamani. Heart Disease
 
 ## Results & Conclusion
 Hasil perbandingan model dapat disimpulkan sebagai berikut:
-<img height="300" src="C:\Users\alvar\OneDrive\Desktop\ArchiComparisson\result\Figure_4.png" width="500"/>
+<img height="300" src="https://github.com/muhammadalvarokhikman/ArchiComparisson/blob/ce55835512c23e1e414463ddddca2a4f398dead9/result/Figure_4.png" width="500"/>
 - **CNN + ResNet** menunjukkan performa terbaik dalam generalisasi dengan akurasi validasi yang stabil.
 - **CNN + ImageNet** memiliki performa yang cukup baik tetapi lebih fluktuatif dibandingkan ResNet.
 - **Transformer (MLP-Mixer)** mencapai akurasi pelatihan yang hampir sempurna (~1.0), tetapi akurasi validasinya lebih rendah dan fluktuatif, yang mengindikasikan overfitting.
