@@ -52,7 +52,7 @@ Jika fokus utama adalah generalisasi yang baik, **CNN + ResNet** menjadi pilihan
 ## How to Run
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/username/project_name.git
+   git clone https://github.com/muhammadalvarokhikman/ArchiComparisson.git
    ```
 2. Install dependencies:
    ```bash
